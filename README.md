@@ -6,5 +6,5 @@
   pip install matplotlib
 ###
 
-My exe Application For Windows Link:-
+My .exe Application For Windows Link:-
 https://drive.google.com/drive/folders/1kmSCl0zJylFv780RUxaS-6LVTI3q95Y1?usp=sharing
